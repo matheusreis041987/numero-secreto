@@ -68,6 +68,8 @@ function reiniciarJogo() {
 
 
 
+// mensagem para a equipe de desenvolvimento
+
 
 
 
